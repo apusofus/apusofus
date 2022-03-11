@@ -1,4 +1,6 @@
-# Apus Pacificus
+# Apus Ofus
+
+SwiftUI의 상어왕이 되기 위하 아가물고기들의 몸부림
 
 <!--
 **apusofus/apusofus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
